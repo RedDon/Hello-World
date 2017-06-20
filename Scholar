@@ -1,0 +1,7 @@
+<inheritStructure>  -----Inherits structure from Student Table
+
+<majorList>         -----A list of the majors the scholar is studying
+  <listItem>
+    <major>         -----Inherit from student table,including subjectList data
+    
+   
