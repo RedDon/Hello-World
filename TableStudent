@@ -1,26 +1,29 @@
 
 
-<student>
-  <ID>
+<student>       -----Student object 
+  <ID>          -----Student ID * Unique
   </ID>
-  <name>
+  <name>        -----Student Name
   </name>
-  <dob>
+  <dob>         -----Date of birth
   </dob>
-  <major>
-  <description>
-  <subjectList>
-     <listItem> 
-      <Subject>
-        <SubID>
+  <major>       -----Main focus of study
+  <description> -----Description of major
+  <subjectList> -----List object filled with subjects related to major
+     <listItem> -----List item
+      <semester>-----Time of subject
+      <Teacher>------Link to teacher
+      <Cost>  -------Cost of study
+      <Subject> -----Subject object,in side the list object
+        <SubID> -----Unique identifier of subject
         </SubID>
-        <SubName>
+        <SubName>----Name of Subject
         </SubName>
         
-        <Score>
+        <Score> -----Score acheived
         </Score>
-        <image>
-        <Description>
+        <image> -----An image/illustration related to the subject
+        <Description>-Short description of the subject.
         
         </Description>
       </Subject>
