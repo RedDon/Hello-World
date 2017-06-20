@@ -1,0 +1,8 @@
+<Teacher>   ---Teacher Object
+  <EmpID>   ---Unique Employee Identification
+  <Name>    ---Teachers name
+  <Rank/Rating> ---Teacher rank,within organizational hierarchy/Student rating of teacher
+  <Subjects>---List of subjects the teacher teaches
+  <Bio>     ---Short biograpghy of the teacher  
+  <image>   ---Picture of the teacher
+<Teacher>  
