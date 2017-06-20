@@ -1,3 +1,5 @@
+
+
 <student>
   <ID>
   </ID>
@@ -5,14 +7,23 @@
   </name>
   <dob>
   </dob>
+  <major>
+  <description>
   <subjectList>
-    <Subject>
-      <SubID>
-      </SubID>
-      <SubName>
-      </SubName>
-      <Score>
-      </Score>
-    </Subject>
+     <listItem> 
+      <Subject>
+        <SubID>
+        </SubID>
+        <SubName>
+        </SubName>
+        
+        <Score>
+        </Score>
+        <image>
+        <Description>
+        
+        </Description>
+      </Subject>
+     </ListItem> 
   <subjectList>
 </student>
