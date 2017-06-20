@@ -1,0 +1,7 @@
+Student + Major Completion
+  ||    __Select new majors
+   \
+     -->Scholar(Has multiple Majors)
+        ||    
+         \
+          -->??
